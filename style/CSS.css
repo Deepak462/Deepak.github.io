@@ -1,0 +1,106 @@
+body{ 
+    background:linear-gradient(to bottom right, white, #bcbdc4);
+    height:750px;
+    margin: 0px;
+    padding: 0px;
+    }
+    
+    .header{
+        position:absolute;
+        width:100%;
+        height:48px;
+        background:#283e4b;
+        top:0px;
+        left:0px;
+        color:white;
+        z-index:7;
+        font-family:verdana;
+        
+    }
+    #logo{
+        height:38px;
+        width:46px;
+        left:10%;
+        top:10px;
+        
+    }
+    #search{
+        padding: 0px;
+        height:38px;
+        width:46px;
+        left:20%;
+        top:10px;
+    }
+    #home{
+        padding: 0px;
+        height:38px;
+        width:46px;
+        left:40%;
+        top: 5px;
+        
+    }
+      #contacts{
+            padding: 0px;
+        height:38px;
+        width:46px;
+        left:46%;
+        top: 5px;
+      }
+      #case{
+        padding: 0px;
+        height:38px;
+        width:46px;
+        left:52%;
+        top: 5px;
+      }
+      #message{
+        padding: 0px;
+        height:38px;
+        width:46px;
+        left:58%;
+        top: 6px;
+      }
+      #bell{
+        padding: 0px;
+        height:38px;
+        width:46px;
+        left:64%;
+        top: 5px;
+      }
+     
+      #avatar{
+        padding: 0px;
+        height:38px;
+        width:46px;
+        left:70%;
+        top: 2px;
+      }
+      .avatar {
+        vertical-align: middle;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+      }
+      #option{
+        padding: 0px;
+        height:38px;
+        width:46px;
+        left:76%;
+        top: 5px;
+      }
+      
+      .header a {
+        
+      float: none;
+        width: 46px;
+        text-align: center;
+        /* padding: 12px 0; */
+        top: 6px;
+        color: white;
+        font-size: 30px;
+      }
+      
+      .header a:hover {
+        background-color: #000;
+      }
+  
